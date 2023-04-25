@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://VictorDeGallegos.github.io/',
+  base: 'https://victordegallegos.github.io/gh-actions-proof/',
   plugins: [react()],
 })
